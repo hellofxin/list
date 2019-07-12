@@ -16,7 +16,7 @@
 !*/
 
 !.gitignore
-!*ead?e.txt
+!*.md
 
 !*.h
 !*.cpp
